@@ -4,7 +4,7 @@ This project demonstrates how to ingest, process, and analyze data using Azure s
 
 ## Architecture
 
-![ETL ARCHITECTURE](img/etl.jpg)
+![ETL ARCHITECTURE](img/etl.png)
 
 ## Steps
 
