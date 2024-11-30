@@ -114,7 +114,7 @@ Generate an Azure Databricks access token to integrate with Power BI for visuali
 
 - Power BI for data visualization
 
-- Technologies Used
+## Technologies Used
 
 - Azure Resource Manager
 
